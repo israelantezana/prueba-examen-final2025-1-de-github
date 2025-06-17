@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1d1ec5580f890d7f58f8cac40b5317080d0b7460",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-06-17T15:22:32.000Z",
       "message": "Retorna el mismo numero para cadena de 1 numero",
-      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/1d1ec5580f890d7f58f8cac40b5317080d0b7460"
     },
     "stats": {
       "total": 11,
       "additions": 9,
       "deletions": 2,
+      "date": "2025-06-17"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-06-17T15:33:56.000Z",
+      "message": "Refactoring: se elimina corchetes innecesarios",
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 1,
+      "deletions": 3,
       "date": "2025-06-17"
     },
     "coverage": 100,

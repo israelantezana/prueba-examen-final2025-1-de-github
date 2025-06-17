@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5a4ca6119e38c51b3cb1f23beb52a85f4a5846a0",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-06-17T15:33:56.000Z",
       "message": "Refactoring: se elimina corchetes innecesarios",
-      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/5a4ca6119e38c51b3cb1f23beb52a85f4a5846a0"
     },
     "stats": {
       "total": 4,
@@ -55,5 +55,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-06-17T15:40:47.000Z",
+      "message": "Se especifica suma de dos numeros en la cadena",
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-06-17"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

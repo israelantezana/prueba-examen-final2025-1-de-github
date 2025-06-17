@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "7b67ae76088ad4edcf82dca522d7eac33bff9e5c",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-06-17T15:17:38.000Z",
       "message": "Devuelve 0 para una cadena vacia",
-      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/7b67ae76088ad4edcf82dca522d7eac33bff9e5c"
     },
     "stats": {
       "total": 8,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-06-17T15:22:32.000Z",
+      "message": "Retorna el mismo numero para cadena de 1 numero",
+      "url": "https://github.com/israelantezana/prueba-examen-final2025-1-de-github/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-06-17"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
